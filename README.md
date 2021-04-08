@@ -11,7 +11,7 @@
 <code>I am a software developer and a data science enthusiast. Have experience of creating backend, frontend and mobile application, with addition of machine       learning model and data analysis.</code>
 
 </br>
-Do you have some interesting project to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
+Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
 </br>
 
 - 🔭 I’m currently working on NextJS, GraphQL, Django, and Vue
@@ -23,7 +23,7 @@ Do you have some interesting project to share and open for collaboration? Let's 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Astronomy ❤️
 
-## ⚡ Technology Stacks I use
+## ⚡ Technology Stacks I Use
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
