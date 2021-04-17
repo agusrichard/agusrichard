@@ -4,7 +4,6 @@
 <a href='https://www.linkedin.com/in/agus-richard/' target='_blank' rel='noopener' rel='noreferrer'>
   <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Agus%20Richard&color=blue&style=flat-square&logo=linkedin' />
 </a>
-
 </br>
 </br>
 
@@ -23,7 +22,10 @@ Do you have some interesting projects to share and open for collaboration? Let's
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Astronomy ❤️
 
-## ⚡ Technology Stacks I Use
+### Code Challenges
+<img src="https://www.codewars.com/users/agusrichard/badges/large" />
+
+### ⚡ Technology Stacks I Use
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
