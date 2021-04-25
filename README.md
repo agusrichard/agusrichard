@@ -19,8 +19,9 @@ Do you have some interesting projects to share and open for collaboration? Let's
 - 🤔 I’m looking for help with open-source contributions
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agus-richard/) or [Email](mailto:agus.richard21@gmail.com)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Astronomy ❤️
+
+I am also write some articles about programming and more. If you want to know, please visit <a href="https://agusrichard.medium.com/">my medium site</a>. Let's learn together and happy learning. Also, I am always open for any feedbacks, so don't hesitate to give me some.
 
 ### Code Challenges
 <img src="https://www.codewars.com/users/agusrichard/badges/large" />
