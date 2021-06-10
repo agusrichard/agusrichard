@@ -13,8 +13,8 @@
 Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
 </br>
 
-- 🔭 I’m currently working on NextJS, GraphQL, Django, and Vue
-- 🌱 I’m currently learning Clean Code, and Algorithms and Data Structures
+- 🔭 I’m currently working on NextJS and Go
+- 🌱 I’m currently learning Clean Code, SOLID Principles, and Testing
 - 👯 I’m looking to collaborate on any open-source projects
 - 🤔 I’m looking for help with open-source contributions
 - 💬 Ask me about anything
