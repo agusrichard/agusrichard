@@ -14,9 +14,8 @@ Do you have some interesting projects to share and open for collaboration? Let's
 </br>
 
 - 🔭 I’m currently working on NextJS and Go
-- 🌱 I’m currently learning Clean Code, SOLID Principles, and Testing
+- 🌱 I’m currently learning Functional Programming, Haskell, and Java
 - 👯 I’m looking to collaborate on any open-source projects
-- 🤔 I’m looking for help with open-source contributions
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agus-richard/) or [Email](mailto:agus.richard21@gmail.com)
 - ⚡ Fun fact: I love Astronomy ❤️
