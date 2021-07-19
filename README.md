@@ -13,7 +13,7 @@
 Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
 </br>
 
-- 🔭 I’m currently working on NextJS and Go
+- 🔭 I’m currently working on Testing, NextJS and Go
 - 🌱 I’m currently learning Functional Programming, Haskell, and Java
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about anything
