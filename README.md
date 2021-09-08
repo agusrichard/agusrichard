@@ -14,7 +14,7 @@ Do you have some interesting projects to share and open for collaboration? Let's
 </br>
 
 - 🔭 I’m currently working on Testing, NextJS and Go
-- 🌱 I’m currently learning Functional Programming, Haskell, and Java Spring Boot
+- 🌱 I’m currently learning Haskell, Java Spring Boot, and Functional Programming
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agus-richard/) or [Email](mailto:agus.richard21@gmail.com)
