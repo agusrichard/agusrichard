@@ -54,7 +54,7 @@ I write some articles about programming and more. If you want to know, please vi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrichard&layout=compact&theme=material-palenight" />
 </a>
 
-### 📝 My Latest Blog Post in Medium
+### 📝 My Latest Blog Posts in Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@agusrichard/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@agusrichard/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@agusrichard/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@agusrichard/1" alt="Recent Article 1"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@agusrichard/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@agusrichard/2" alt="Recent Article 2"></a> <br>
