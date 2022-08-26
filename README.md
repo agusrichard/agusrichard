@@ -1,4 +1,4 @@
-### Hello There! I am Agus Richard 👋😄
+### Hello There! I am Agus Richard 👋👋😄
 
 
 <a href='https://www.linkedin.com/in/agus-richard/' target='_blank' rel='noopener' rel='noreferrer'>
