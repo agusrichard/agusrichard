@@ -14,7 +14,7 @@ Do you have some interesting projects to share and open for collaboration? Let's
 </br>
 
 - 🔭 I’m currently working on Python, Airflow, and AWS
-- 🌱 I’m currently learning Ruby and AWS
+- 🌱 I’m currently learning Ruby, Haskell and AWS
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about anything, even if it's not about programming or software
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agus-richard/) or [Email](mailto:agus.richard21@gmail.com)
