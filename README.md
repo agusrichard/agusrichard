@@ -6,8 +6,11 @@
 </a>
 </br>
 </br>
+Merry Christmas🎄
+</br>
+</br>
 
-<code>I am a software developer and a data science enthusiast. Have experience of creating backend, frontend and mobile application, with addition of machine       learning model and data analysis.</code>
+<code>I am a software developer and a data science enthusiast. Have experience of creating backend, frontend and mobile application, with addition of machine learning model and data analysis.</code>
 
 </br>
 Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
