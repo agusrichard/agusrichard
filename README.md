@@ -4,11 +4,6 @@
 <a href='https://www.linkedin.com/in/agus-richard/' target='_blank' rel='noopener' rel='noreferrer'>
   <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Agus%20Richard&color=blue&style=flat-square&logo=linkedin' />
 </a>
-</br>
-</br>
-Merry Christmas🎄
-</br>
-</br>
 
 <code>I am a software developer and a data science enthusiast. Have experience of creating backend, frontend and mobile application, with addition of machine learning model and data analysis.</code>
 
