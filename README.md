@@ -47,10 +47,19 @@ I write some articles about programming and more. If you want to know, please vi
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-<a href="https://github.com/agusrichard/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agusrichard&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Agus's github stats" />
-</a>
-</br>
-<a href="https://github.com/agusrichard/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrichard&layout=compact&theme=material-palenight" />
-</a>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<summary>💻 GitHub Profile Stats</summary>
+<br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="agusrichard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=agusrichard&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="agusrichard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrichard&langs_count=8&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<br/>
+
+<summary> :zap: Recent Activity on GitHub</summary>
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="left">
+  <a href="https://github.com/agusrichard/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusrichard&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+  <br/>
+</p>
