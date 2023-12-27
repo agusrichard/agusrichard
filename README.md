@@ -11,7 +11,7 @@
 Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
 </br>
 
-- 🔭 I’m currently working on Erlang, Python, Airflow, and AWS
+- 🔭 I’m currently working on Python, Asynchronous, Airflow, and AWS
 - 🌱 I’m currently learning Erlang, Scala, Functional Programming, Asynchronous Python, Distributed Computing and Spark
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about anything, even if it's not about programming or software
