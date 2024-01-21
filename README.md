@@ -17,7 +17,7 @@ Do you have some interesting projects to share and open for collaboration? Let's
 - 💬 Ask me about anything, even if it's not about programming or software
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agus-richard/) or [Email](mailto:agus.richard21@gmail.com)
 - ⚡ Fun fact: I love Astronomy ❤️ and want to be a musician
-- 🏆 Hobbies: Photography, Reading, Writing, Traveling, and Backpacking
+- 🏆 Hobbies: Photography, Reading, Writing, Traveling, Backpacking, and Freediving
 
 I write some articles about programming and more. If you want to know, please visit <a href="https://agusrichard.medium.com/">my medium site</a>. Let's learn together and happy learning. Also, I am always open for any feedbacks, so don't hesitate to give me some.
 
