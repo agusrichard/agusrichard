@@ -1,5 +1,7 @@
 ### Hello There! I am Agus Richard 👋👋😄
 
+*Software Engineer, Photographer, Writer, and Freediver*
+
 
 <a href='https://www.linkedin.com/in/agus-richard/' target='_blank' rel='noopener' rel='noreferrer'>
   <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Agus%20Richard&color=blue&style=flat-square&logo=linkedin' />
