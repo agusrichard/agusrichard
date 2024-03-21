@@ -1,6 +1,6 @@
 ### Hello There! I am Agus Richard 👋👋😄
 
-*Software Engineer, Photographer, Writer, and Freediver, and Runner*
+*Software Engineer, Data Engineer, Photographer, Data Science Enthusiast, Writer, and Freediver, and Runner*
 
 
 <a href='https://www.linkedin.com/in/agus-richard/' target='_blank' rel='noopener' rel='noreferrer'>
