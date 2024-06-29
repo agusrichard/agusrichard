@@ -7,7 +7,7 @@
   <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Agus%20Richard&color=blue&style=flat-square&logo=linkedin' />
 </a>
 
-<code>I am a software engineer and a data science enthusiast. Have experience of creating backend, frontend and mobile application, with addition of machine learning model and data analysis.</code>
+<code>I am a software engineer, data engineer and a data science enthusiast. Have experience of creating backend, frontend and mobile application, with addition of machine learning model and data analysis.</code>
 
 </br>
 Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
