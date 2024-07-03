@@ -21,7 +21,11 @@ Do you have some interesting projects to share and open for collaboration? Let's
 - ⚡ Fun fact: I love Astronomy ❤️ and want to be a musician
 - 🏆 Hobbies: Photography, Reading, Writing, Traveling, Backpacking, Running and Freediving
 
-I write some articles about programming and more. If you want to know, please visit <a href="https://agusrichard.medium.com/">my medium site</a>. Let's learn together and happy learning. Also, I am always open for any feedbacks, so don't hesitate to give me some.
+I write some articles about programming and more. If you want to know, please visit <a href="https://agusrichard.medium.com/">my medium site</a>. 
+
+<br />
+
+Let's learn together and happy learning. Also, I am always open for any feedbacks, so don't hesitate to give me some.
 
 ### Code Challenges
 <img src="https://www.codewars.com/users/agusrichard/badges/large" />
