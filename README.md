@@ -9,7 +9,7 @@ _Backend & Data Engineer · Learn. Research. Build. Write. Repeat._
 <code>I build backend systems and data pipelines that teams depend on — reliable, scalable, and built to last. Deep expertise in distributed architectures, cloud-native orchestration, and high-throughput data engineering.</code>
 
 </br>
-Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
+Do you have any interesting projects to share, or are you open to collaboration? Let's collaborate, and feel free to contact me.</br>
 </br>
 
 - 🔭 I'm currently working on Python, ETL Pipelines, Airflow, Data Engineering, and AWS
@@ -18,13 +18,13 @@ Do you have some interesting projects to share and open for collaboration? Let's
 - 💬 Ask me about anything, even if it's not about programming or software
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agus-richard/) or [Email](mailto:agus.richard21@gmail.com)
 - ⚡ Fun fact: I love Astronomy ❤️ and want to be a musician
-- 🏆 Hobbies: Photography, Reading, Writing Fiction, Traveling, Backpacking, Running, Freediving, and Fitness
+- 🏆 Hobbies: Photography, Reading, Writing Fiction, Travelling, Backpacking, Running, Freediving, Scuba Diving, and Fitness
 
-I write some articles about programming and more. If you want to know, please visit <a href="https://agusrichard.medium.com/">my medium site</a>.
+I write some articles about programming and more. If you want to know more, please visit <a href="https://agusrichard.medium.com/">my medium site</a>.
 
 <br />
 
-Let's learn together and happy learning. Also, I am always open for any feedbacks, so don't hesitate to give me some.
+Let's learn together, and happy learning. Also, I am always open to any feedback, so don't hesitate to give me some.
 
 ### Code Challenges
 
